@@ -1,9 +1,12 @@
 <!-- # Hi there <img src="https://raw.githubusercontent.com/fru2/fru2/main/assets/wave.gif" width="30px"> -->
 # Hi there
 I'm Utsav and I'm in love with the visual side of web, yes, front-end is fasinating.<br />
+Learning something new everyday. 
 
 
-- 🌱 I’m currently learning - Next.js
+- 🌱 Currently learning - Next.js
+- 🎨 Fine arts as hobby 
+- 🎵 Always vibin' to music
 - 🍿 Anime in the mean time
 
 <!-- <br /> -->
@@ -16,8 +19,8 @@ I'm Utsav and I'm in love with the visual side of web, yes, front-end is fasinat
 
 
 ### Design tools
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 
 ### Front-end
