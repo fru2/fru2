@@ -4,7 +4,7 @@ I'm Utsav and I'm in love with the visual side of web, yes, front-end is fasinat
 Learning something new everyday. 
 
 
-- 🌱 Currently learning - Next.js
+- 🌱 Currently learning - Electron
 - 🎨 Fine arts as hobby 
 - 🎵 Always vibin' to music
 - 🍿 Anime in the mean time
