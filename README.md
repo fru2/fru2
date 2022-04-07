@@ -3,8 +3,6 @@
 I'm Utsav and I'm in love with the visual side of web, yes, front-end is fasinating.<br />
 Learning something new everyday. 
 
-
-- 🌱 Currently learning
 - 🎨 Fine arts as hobby 
 - 🎵 Always vibin' to music
 - 🍿 Anime in the mean time
